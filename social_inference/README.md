@@ -18,3 +18,11 @@ like "Why did Jesse do this?", humans can easily infer that Jesse wanted "to see
 a wide variety of social situations, and answer candidates contain both human-curated answers and adversarially-filtered 
 machine-generated candidates. Social IQa contains over 37,000 QA pairs for evaluating models’ abilities to reason about 
 the social implications of everyday events and situations.” (from https://paperswithcode.com/dataset/social-iqa)
+
+## Data license
+@inproceedings{Sap2019SocialIC,
+  title={Social IQA: Commonsense Reasoning about Social Interactions},
+  author={Maarten Sap and Hannah Rashkin and Derek Chen and Ronan Le Bras and Yejin Choi},
+  booktitle={EMNLP 2019},
+  year={2019}
+}
